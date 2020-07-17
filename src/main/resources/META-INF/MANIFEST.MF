@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Agent-Class: me.threedr3am.log.agent.Agent
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Premain-Class: me.threedr3am.log.agent.Agent
+Main-Class: me.threedr3am.log.agent.Agent
+
